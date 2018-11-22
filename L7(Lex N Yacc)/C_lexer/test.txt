@@ -1,0 +1,2 @@
+I have a Lex program that reads if a given character is an alphabet or number. How to I take my inputs directly from a file. 
+This is my simple program. Also what would be a good tutorial for Flex/Lex
